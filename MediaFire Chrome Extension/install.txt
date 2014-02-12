@@ -1,0 +1,5 @@
+1.Download everything in this folder onto a folder on your computer.
+2. Go to "chrome://extensions" in Google Chrome browser.
+3. Check "developer mode" in top right corner.
+4. Click "load unpacked extension".
+5. Select folder where your stuff is!
